@@ -23,7 +23,7 @@ Dalam proyek ini, dilakukan **perbandingan performa empat algoritma machine lear
   - `rating` : rating bintang (1–5)
   - `sentiment` : label sentimen (positif / negatif)
 
-### Distribusi Awal Sentimen
+### Distribusi Awal Sentimen Setelah Penghapusan Duplikat dan Null
 - Positif: 84 data  
 - Negatif: 64 data  
 
