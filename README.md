@@ -9,7 +9,7 @@ Dalam proyek ini, dilakukan **perbandingan performa empat algoritma machine lear
 - Support Vector Machine (SVM)
 - Logistic Regression (LR)
 - XGBoost
-- 
+
 ---
 
 ## Dataset
