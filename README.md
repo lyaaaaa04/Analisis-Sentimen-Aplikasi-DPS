@@ -97,7 +97,7 @@ Meskipun beberapa model menunjukkan nilai akurasi yang sangat tinggi, hasil ini 
 - Penerapan teknik oversampling (SMOTE)
 - Evaluasi masih berfokus pada metrik akurasi
 
-Model **Multinomial Naive Bayes (MNB)** memperoleh akurasi tertinggi (100%), namun terdapat indikasi bahwa model ini **menyesuaikan diri terlalu baik terhadap data training atau disebut juga dengan overfitting**, sehingga performanya perlu diuji lebih lanjut menggunakan teknik validasi silang (cross-validation).
+Model **Multinomial Naive Bayes (MNB)** memperoleh akurasi tertinggi (100%), namun terdapat indikasi bahwa model ini **menyesuaikan diri terlalu baik terhadap data training**, sehingga performanya perlu diuji lebih lanjut menggunakan teknik validasi silang (cross-validation).
 
 Model **Logistic Regression dan SVM** menunjukkan performa yang **lebih stabil dan konsisten**, sehingga dinilai lebih representatif untuk diterapkan pada data baru.
 
